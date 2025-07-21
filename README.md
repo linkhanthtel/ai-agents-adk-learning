@@ -1,5 +1,8 @@
 ## References
 
+Terminal:
+``adk web``
+
 ### Building AI Agents with ADK:The Foundation
 https://codelabs.developers.google.com/devsite/codelabs/build-agents-with-adk-foundation?hl=en#0
 
@@ -11,4 +14,6 @@ https://codelabs.developers.google.com/codelabs/currency-agent?hl=en#0
 
 ### Building AI Agents with ADK:Empowering with Tools
 https://codelabs.developers.google.com/devsite/codelabs/build-agents-with-adk-empowering-with-tools?hl=en#0
+
+
 
