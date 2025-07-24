@@ -1,7 +1,11 @@
 ## References
 
-Terminal:
-``adk web``
+Run after installing dependencies:
+```bash
+adk web
+```
+
+The API will be available at `http://localhost:8000`
 
 ### Building AI Agents with ADK:The Foundation
 https://codelabs.developers.google.com/devsite/codelabs/build-agents-with-adk-foundation?hl=en#0
